@@ -1,2 +1,20 @@
 # terminal-vim
-VIM resources
+
+VIM setup for JS developement
+
+## Installed
+
+- Pathogen
+
+    https://github.com/tpope/vim-pathogen
+
+- JSHint
+
+    https://github.com/Shutnik/jshint2.vim
+
+    `.jshintrc` file included here
+
+- vim-javascript
+                
+    https://github.com/pangloss/vim-javascript
+
