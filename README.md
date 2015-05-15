@@ -15,6 +15,11 @@ VIM setup for JS developement
     `.jshintrc` file included here
 
 - vim-javascript
-                
+
     https://github.com/pangloss/vim-javascript
+
+- vim-trailing-whitespace
+
+    https://github.com/bronson/vim-trailing-whitespace
+
 
